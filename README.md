@@ -1,4 +1,4 @@
-# **---------- CONVERSOR DE MONEDA ----------** 
+# **<h1 align="center"> ---------- CONVERSOR DE MONEDA ----------**</h1> 
 
 ## *Descripcion de programa*
 Este programa se encarag de realizar conversiones de moneda en Dolar, Quetzales y Euros, el programa contiene 6 opciones de conversion 
@@ -14,6 +14,6 @@ Este programa se encarag de realizar conversiones de moneda en Dolar, Quetzales 
 2. y listo se estara ejecutando 
 
 ## *Datos del autor* 
-<h3> Andrea Esther López Hernández\n </h3>
-<h3>21000122@galileo.edu.gt\n </h3>
-<h3>21000122\n </h3>
+<h6> Andrea Esther López Hernández</h6>
+<h6>21000122@galileo.edu.gt</h6>
+<h6>21000122</h6>
